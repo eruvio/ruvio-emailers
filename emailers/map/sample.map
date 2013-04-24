@@ -1,0 +1,6 @@
+default http://www.apple.com
+
+#Section A: white cane icon
+rect http://www.hebsdigital.com/ 19,47 93,128
+rect http://www.hebsdigital.com/aboutus.php 20,141 89, 213 
+rect http://www.hebsdigital.com/contact.php 21,230 90,302 

@@ -1,0 +1,5 @@
+default http://www.cnn.com
+
+#comment
+rect http://www.google.com  239,489 385,568
+rect http://www.yahoo.com   131,613 483,848

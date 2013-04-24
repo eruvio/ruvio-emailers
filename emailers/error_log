@@ -1,0 +1,3 @@
+[14-Mar-2013 20:16:55] PHP Warning:  readfile(path/to/regular.gif) [<a href='function.readfile'>function.readfile</a>]: failed to open stream: No such file or directory in /home/dbr2/public_html/Email-testing/roger.php on line 14
+[15-Mar-2013 08:46:37] PHP Fatal error:  Call to undefined function  apache_get_modules() in /home/dbr2/public_html/Email-testing/info.php on line 5
+[15-Mar-2013 08:47:02] PHP Fatal error:  Call to undefined function  apache_get_modules() in /home/dbr2/public_html/Email-testing/info.php on line 5

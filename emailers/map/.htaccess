@@ -1,0 +1,2 @@
+AddHandler imap-file map
+ImapDefault error
